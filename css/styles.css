@@ -1,0 +1,27 @@
+.caption{
+    margin-left: 20px;
+    margin-bottom: -10px;
+    margin-top: 10px;
+}
+.dropdown{
+    
+    background-color: grey;
+}    
+.row{
+    width: 100%;
+}
+.dropdown-toggle::after {
+
+    
+}
+.card{
+    margin-left: 33%;
+}
+.card-img, .card-img-top {
+    border-top-left-radius:0%;
+    border-top-right-radius:0%;
+}
+.dropdown-menu[data-bs-popper] {
+    right: 1px;
+    left:auto;
+}
